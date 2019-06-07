@@ -1,6 +1,6 @@
 # The economics of package management
 
-I’m going to tell you a story about who owns the JavaScript language commons, how we got here, and why we need to change it. It’s a story about money as much as it is about Javascript— money and ownership and control.
+I’m going to tell you a story about who owns the JavaScript language commons, how we got here, and why we need to change it. It’s a story about money as much as it is about JavaScript— money and ownership and control.
 
 I'm going to tell you the version of the story I know how to tell. I'm one human with imperfect knowledge and a point of view, so the story is not the only story anybody could tell about it, not by a long way. But I can tell you a good version of one slice of this story, because I was part of it. I was at its heart, because until last year I was CTO of npm Inc, the company that runs the Javascript package registry. This gives me an expertise on the topic that few people in the world have. It also comes along with a point of view, which I invite you to keep in mind as you listen to this story.
 
